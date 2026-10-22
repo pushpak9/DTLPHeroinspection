@@ -1,0 +1,93 @@
+D:\Code\Hero Inspection\HeroInspection\bin\Debug\HeroInspection.exe.config
+D:\Code\Hero Inspection\HeroInspection\bin\Debug\HeroInspection.exe
+D:\Code\Hero Inspection\HeroInspection\bin\Debug\HeroInspection.pdb
+D:\Code\Hero Inspection\HeroInspection\bin\Debug\ClsSocket.dll
+D:\Code\Hero Inspection\HeroInspection\bin\Debug\DTPLLogs.dll
+D:\Code\Hero Inspection\HeroInspection\bin\Debug\Socket.Client.dll
+D:\Code\Hero Inspection\HeroInspection\bin\Debug\System.Memory.dll
+D:\Code\Hero Inspection\HeroInspection\bin\Debug\System.Numerics.Vectors.dll
+D:\Code\Hero Inspection\HeroInspection\bin\Debug\System.Security.AccessControl.dll
+D:\Code\Hero Inspection\HeroInspection\bin\Debug\System.Security.Principal.Windows.dll
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.csproj.AssemblyReference.cache
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.ChangePassword.resources
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.frmProductMaster.resources
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.frmDBSetting.resources
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.LoginScreen.resources
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.MainWindow.resources
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.Forms.Masters.PasswordWindow.resources
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.SiteMaster.resources
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.UserMaster.resources
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.UserRight.resources
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.Reports.InspectionReport.resources
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.Forms.Transaction.ProductScanning.resources
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.Properties.Resources.resources
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.csproj.GenerateResource.cache
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.csproj.CoreCompileInputs.cache
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInsp.25BBA214.Up2Date
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.exe
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.pdb
+D:\Code\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.Forms.Masters.CountryMaster.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\HeroInspection.exe.config
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\HeroInspection.exe
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\HeroInspection.pdb
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\ClsSocket.dll
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\DTPLLogs.dll
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\NModbus4.dll
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\Socket.Client.dll
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\System.Buffers.dll
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\System.Memory.dll
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\System.Security.AccessControl.dll
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\bin\Debug\NModbus4.xml
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.csproj.AssemblyReference.cache
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.ChangePassword.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.frmProductMaster.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.frmDBSetting.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.LoginScreen.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.MainWindow.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.Forms.Masters.PasswordWindow.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.Forms.Masters.CountryMaster.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.SiteMaster.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.UserMaster.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.UserRight.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.Reports.InspectionReport.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.Forms.Transaction.ProductScanning.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.Properties.Resources.resources
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.csproj.GenerateResource.cache
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.csproj.CoreCompileInputs.cache
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.csproj.CopyComplete
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.exe
+C:\Users\dashm\Desktop\Hero Inspection\HeroInspection\obj\Debug\HeroInspection.pdb
+D:\R&d\HeroInspection\bin\Debug\HeroInspection.exe.config
+D:\R&d\HeroInspection\bin\Debug\HeroInspection.exe
+D:\R&d\HeroInspection\bin\Debug\HeroInspection.pdb
+D:\R&d\HeroInspection\bin\Debug\ClsSocket.dll
+D:\R&d\HeroInspection\bin\Debug\DTPLLogs.dll
+D:\R&d\HeroInspection\bin\Debug\NModbus4.dll
+D:\R&d\HeroInspection\bin\Debug\Socket.Client.dll
+D:\R&d\HeroInspection\bin\Debug\System.Memory.dll
+D:\R&d\HeroInspection\bin\Debug\System.Numerics.Vectors.dll
+D:\R&d\HeroInspection\bin\Debug\System.Security.AccessControl.dll
+D:\R&d\HeroInspection\bin\Debug\System.Security.Principal.Windows.dll
+D:\R&d\HeroInspection\bin\Debug\NModbus4.xml
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.csproj.AssemblyReference.cache
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.ChangePassword.resources
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.frmProductMaster.resources
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.frmDBSetting.resources
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.LoginScreen.resources
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.MainWindow.resources
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.Forms.Masters.PasswordWindow.resources
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.Forms.Masters.CountryMaster.resources
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.SiteMaster.resources
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.UserMaster.resources
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.UserRight.resources
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.Reports.InspectionReport.resources
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.Forms.Transaction.ProductScanning.resources
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.Properties.Resources.resources
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.csproj.GenerateResource.cache
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.csproj.CoreCompileInputs.cache
+D:\R&d\HeroInspection\obj\Debug\HeroInsp.25BBA214.Up2Date
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.exe
+D:\R&d\HeroInspection\obj\Debug\HeroInspection.pdb

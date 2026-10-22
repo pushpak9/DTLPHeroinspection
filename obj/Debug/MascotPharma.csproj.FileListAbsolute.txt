@@ -1,0 +1,95 @@
+E:\github\MascotPharma\obj\Debug\MascotPharma.csproj.AssemblyReference.cache
+E:\github\MascotPharma\obj\Debug\MascotPharma.ChangePassword.resources
+E:\github\MascotPharma\obj\Debug\MascotPharma.frmCustomerMaster.resources
+E:\github\MascotPharma\obj\Debug\MascotPharma.frmDBSetting.resources
+E:\github\MascotPharma\obj\Debug\MascotPharma.frmItemMaster.resources
+E:\github\MascotPharma\obj\Debug\MascotPharma.LoginScreen.resources
+E:\github\MascotPharma\obj\Debug\MascotPharma.MainWindow.resources
+E:\github\MascotPharma\obj\Debug\MascotPharma.Forms.Masters.PasswordWindow.resources
+E:\github\MascotPharma\obj\Debug\MascotPharma.SiteMaster.resources
+E:\github\MascotPharma\obj\Debug\MascotPharma.UserMaster.resources
+E:\github\MascotPharma\obj\Debug\MascotPharma.UserRight.resources
+E:\github\MascotPharma\obj\Debug\MascotPharma.Properties.Resources.resources
+E:\github\MascotPharma\obj\Debug\MascotPharma.csproj.GenerateResource.cache
+E:\github\MascotPharma\obj\Debug\MascotPharma.csproj.CoreCompileInputs.cache
+E:\github\MascotPharma\bin\Debug\MascotPharma.exe.config
+E:\github\MascotPharma\bin\Debug\MascotPharma.exe
+E:\github\MascotPharma\bin\Debug\MascotPharma.pdb
+E:\github\MascotPharma\bin\Debug\DTPLLogs.dll
+E:\github\MascotPharma\bin\Debug\System.Buffers.dll
+E:\github\MascotPharma\bin\Debug\System.Collections.Immutable.dll
+E:\github\MascotPharma\bin\Debug\System.Memory.dll
+E:\github\MascotPharma\bin\Debug\System.Numerics.Vectors.dll
+E:\github\MascotPharma\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\github\MascotPharma\bin\Debug\System.Security.AccessControl.dll
+E:\github\MascotPharma\bin\Debug\System.Security.Principal.Windows.dll
+E:\github\MascotPharma\obj\Debug\MascotPharma.csproj.CopyComplete
+E:\github\MascotPharma\obj\Debug\MascotPharma.exe
+E:\github\MascotPharma\obj\Debug\MascotPharma.pdb
+E:\github\MascotPharma\obj\Debug\MascotPharma.Forms.Transaction.ProductCustomerMapping.resources
+D:\Application\Non Github Application\MascotPharma\bin\Debug\MascotPharma.exe.config
+D:\Application\Non Github Application\MascotPharma\bin\Debug\MascotPharma.exe
+D:\Application\Non Github Application\MascotPharma\bin\Debug\MascotPharma.pdb
+D:\Application\Non Github Application\MascotPharma\bin\Debug\DTPLLogs.dll
+D:\Application\Non Github Application\MascotPharma\bin\Debug\System.Buffers.dll
+D:\Application\Non Github Application\MascotPharma\bin\Debug\System.Memory.dll
+D:\Application\Non Github Application\MascotPharma\bin\Debug\System.Numerics.Vectors.dll
+D:\Application\Non Github Application\MascotPharma\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Application\Non Github Application\MascotPharma\bin\Debug\System.Security.AccessControl.dll
+D:\Application\Non Github Application\MascotPharma\bin\Debug\System.Security.Principal.Windows.dll
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.csproj.AssemblyReference.cache
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.ChangePassword.resources
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.frmCustomerMaster.resources
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.frmDBSetting.resources
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.frmItemMaster.resources
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.LoginScreen.resources
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.MainWindow.resources
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.Forms.Masters.PasswordWindow.resources
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.SiteMaster.resources
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.UserMaster.resources
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.UserRight.resources
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.Forms.Transaction.ProductCustomerMapping.resources
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.Properties.Resources.resources
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.csproj.GenerateResource.cache
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.csproj.CoreCompileInputs.cache
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.exe
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.pdb
+D:\Application\Non Github Application\MascotPharma\bin\Debug\Socket.Client.dll
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.Forms.Transaction.ItemValidatation.resources
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPharma.Reports.AssemblyLineMappingReport.resources
+D:\Application\Non Github Application\MascotPharma\bin\Debug\ClsSocket.dll
+D:\Application\Non Github Application\MascotPharma\bin\Debug\System.Collections.Immutable.xml
+D:\Application\Non Github Application\MascotPharma\obj\Debug\MascotPh.3AE060FF.Up2Date
+D:\DTLPL-SW\Mascot_Verification\bin\Debug\MascotPharma.exe.config
+D:\DTLPL-SW\Mascot_Verification\bin\Debug\MascotPharma.exe
+D:\DTLPL-SW\Mascot_Verification\bin\Debug\MascotPharma.pdb
+D:\DTLPL-SW\Mascot_Verification\bin\Debug\ClsSocket.dll
+D:\DTLPL-SW\Mascot_Verification\bin\Debug\DTPLLogs.dll
+D:\DTLPL-SW\Mascot_Verification\bin\Debug\Socket.Client.dll
+D:\DTLPL-SW\Mascot_Verification\bin\Debug\System.Memory.dll
+D:\DTLPL-SW\Mascot_Verification\bin\Debug\System.Numerics.Vectors.dll
+D:\DTLPL-SW\Mascot_Verification\bin\Debug\System.Security.AccessControl.dll
+D:\DTLPL-SW\Mascot_Verification\bin\Debug\System.Security.Principal.Windows.dll
+D:\DTLPL-SW\Mascot_Verification\bin\Debug\System.Buffers.xml
+D:\DTLPL-SW\Mascot_Verification\bin\Debug\System.Collections.Immutable.xml
+D:\DTLPL-SW\Mascot_Verification\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.csproj.AssemblyReference.cache
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.ChangePassword.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.frmCustomerMaster.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.frmDBSetting.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.frmItemMaster.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.LoginScreen.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.MainWindow.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.Forms.Masters.PasswordWindow.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.SiteMaster.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.UserMaster.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.UserRight.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.Reports.AssemblyLineMappingReport.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.Forms.Transaction.ItemValidatation.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.Forms.Transaction.ProductCustomerMapping.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.Properties.Resources.resources
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.csproj.GenerateResource.cache
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.csproj.CoreCompileInputs.cache
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPh.3AE060FF.Up2Date
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.exe
+D:\DTLPL-SW\Mascot_Verification\obj\Debug\MascotPharma.pdb

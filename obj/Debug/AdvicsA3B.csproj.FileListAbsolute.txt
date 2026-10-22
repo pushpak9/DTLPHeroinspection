@@ -1,0 +1,200 @@
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.AssemblyReference.cache
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.SuggestedBindingRedirects.cache
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.ChangePassword.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.frmCustomerMaster.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.frmDBSetting.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.frmItemMaster.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Masters.LineMaster.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.LoginScreen.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.MainWindow.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.SiteMaster.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.UserMaster.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.UserRight.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Reports.AssemblyLineMappingReport.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Transaction.LabelPrinting.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Properties.Resources.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.GenerateResource.cache
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.CoreCompileInputs.cache
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\AdvicsA3B.exe.config
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\AdvicsA3B.exe
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\AdvicsA3B.pdb
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\DTPLLogs.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\MaterialSkin.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.CodeDom.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.CodeDom.xml
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.CopyComplete
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.exe
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.pdb
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.WorkOrderMaster.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.AccessControl.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.Permissions.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.Principal.Windows.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.AccessControl.xml
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.Permissions.xml
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.Principal.Windows.xml
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Masters.PasswordWindow.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Transaction.RollbackPackedBox.resources
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\itextsharp.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Buffers.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Collections.Immutable.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Memory.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Reflection.Metadata.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\itextsharp.xml
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Buffers.xml
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Collections.Immutable.xml
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Memory.xml
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Numerics.Vectors.xml
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Reflection.Metadata.xml
+D:\Project\Github\AdvicsWMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\AdvicsA3B.exe.config
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\AdvicsA3B.exe
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\AdvicsA3B.pdb
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\DTPLLogs.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\itextsharp.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\MaterialSkin.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Buffers.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.CodeDom.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Collections.Immutable.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Memory.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Reflection.Metadata.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.AccessControl.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.Permissions.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.Principal.Windows.dll
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\itextsharp.xml
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Buffers.xml
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.CodeDom.xml
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Collections.Immutable.xml
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Memory.xml
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Numerics.Vectors.xml
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Reflection.Metadata.xml
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.AccessControl.xml
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.Permissions.xml
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.Principal.Windows.xml
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.AssemblyReference.cache
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.SuggestedBindingRedirects.cache
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.ChangePassword.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.frmCustomerMaster.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.frmDBSetting.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.frmItemMaster.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.LoginScreen.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.MainWindow.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Masters.PasswordWindow.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.SiteMaster.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.UserMaster.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.UserRight.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Reports.AssemblyLineMappingReport.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Transaction.LabelPrinting.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Transaction.RollbackPackedBox.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.WorkOrderMaster.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Properties.Resources.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.GenerateResource.cache
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.CoreCompileInputs.cache
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.CopyComplete
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.exe
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.pdb
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Reports.ReprintReport.resources
+D:\Project\Github\Advics_WMS\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Transaction.Reprinting.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\AdvicsA3B.exe.config
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\AdvicsA3B.exe
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\AdvicsA3B.pdb
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\BouncyCastle.Crypto.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\DTPLLogs.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\itextsharp.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\MaterialSkin.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Buffers.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.CodeDom.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Collections.Immutable.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Memory.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Numerics.Vectors.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Reflection.Metadata.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.AccessControl.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.Permissions.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.Principal.Windows.dll
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\itextsharp.xml
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Buffers.xml
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.CodeDom.xml
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Collections.Immutable.xml
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Memory.xml
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Numerics.Vectors.xml
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Reflection.Metadata.xml
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.AccessControl.xml
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.Permissions.xml
+D:\orginal Application\AdvicsWMS\AdvicsA3B\bin\Debug\System.Security.Principal.Windows.xml
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.AssemblyReference.cache
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.SuggestedBindingRedirects.cache
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.ChangePassword.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.frmCustomerMaster.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.frmDBSetting.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.frmItemMaster.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.LoginScreen.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.MainWindow.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Masters.PasswordWindow.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.SiteMaster.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.UserMaster.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.UserRight.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Reports.AssemblyLineMappingReport.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Reports.ReprintReport.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Transaction.LabelPrinting.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Transaction.Reprinting.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Transaction.RollbackPackedBox.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.WorkOrderMaster.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.Properties.Resources.resources
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.GenerateResource.cache
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.CoreCompileInputs.cache
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.CopyComplete
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.exe
+D:\orginal Application\AdvicsWMS\AdvicsA3B\obj\Debug\AdvicsA3B.pdb
+E:\AdvicsA3B\bin\Debug\AdvicsA3B.exe.config
+E:\AdvicsA3B\bin\Debug\AdvicsA3B.exe
+E:\AdvicsA3B\bin\Debug\AdvicsA3B.pdb
+E:\AdvicsA3B\bin\Debug\DTPLLogs.dll
+E:\AdvicsA3B\bin\Debug\System.Buffers.dll
+E:\AdvicsA3B\bin\Debug\System.Collections.Immutable.dll
+E:\AdvicsA3B\bin\Debug\System.Memory.dll
+E:\AdvicsA3B\bin\Debug\System.Numerics.Vectors.dll
+E:\AdvicsA3B\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\AdvicsA3B\bin\Debug\System.Security.AccessControl.dll
+E:\AdvicsA3B\bin\Debug\System.Security.Principal.Windows.dll
+E:\AdvicsA3B\bin\Debug\itextsharp.xml
+E:\AdvicsA3B\bin\Debug\System.CodeDom.xml
+E:\AdvicsA3B\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\AdvicsA3B\bin\Debug\System.Reflection.Metadata.xml
+E:\AdvicsA3B\bin\Debug\System.Security.Permissions.xml
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.AssemblyReference.cache
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.ChangePassword.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.frmCustomerMaster.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.frmDBSetting.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.frmItemMaster.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.LoginScreen.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.MainWindow.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Masters.PasswordWindow.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.SiteMaster.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.UserMaster.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.UserRight.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.Reports.AssemblyLineMappingReport.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Reports.ReprintReport.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Transaction.LabelPrinting.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Transaction.Reprinting.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.Forms.Transaction.RollbackPackedBox.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.WorkOrderMaster.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.Properties.Resources.resources
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.GenerateResource.cache
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.CoreCompileInputs.cache
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.csproj.CopyComplete
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.exe
+E:\AdvicsA3B\obj\Debug\AdvicsA3B.pdb
